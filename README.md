@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Hamza Latif
 
 🎓 Distinction in MSc Data Science @ King’s College London
+
 🎓 First-Class in BSc Computer Science @ City, University of London
+
 📍 London, UK
 
 ---
