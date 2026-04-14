@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hamza Latif
 
-🎓 Distinction in MSc Data Science @ King’s College London
+🎓 MSc Data Science (Distinction) — King’s College London
 
-🎓 First-Class in BSc Computer Science @ City, University of London
+🎓 BSc Computer Science (First Class) — City, University of London
 
 📍 London, UK
 
@@ -10,100 +10,104 @@
 
 ## 🚀 About Me
 
-I’m a data scientist focused on building **end-to-end machine learning systems** that combine:
+I’m a software engineer focused on building **real-world data & AI systems** — not just models, but **end-to-end applications** that solve practical problems.
 
-* 📊 Strong statistical foundations
-* 🧠 Applied machine learning
-* 🏗️ Structured project design
-* 📈 Business-driven insights
+I work across:
 
-I enjoy turning messy datasets into structured, reproducible pipelines that generate measurable impact.
+* ⚙️ Backend systems & APIs
+* 📊 Data pipelines & analytics workflows
+* 🤖 AI/LLM-powered applications
+
+I enjoy taking ideas from **concept → deployed product**, with a focus on clean architecture, automation, and usability.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 
-### 🤖 Machine Learning
+---
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge)
-![Caret](https://img.shields.io/badge/Caret-R_Modeling-276DC3?style=for-the-badge)
+### ⚙️ Backend & Systems
 
-### 📊 Data & Visualisation
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![API](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![Pipelines](https://img.shields.io/badge/Data%20Pipelines-4CAF50?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-FF6F00?style=for-the-badge)
+![APScheduler](https://img.shields.io/badge/APScheduler-6A1B9A?style=for-the-badge)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![data.table](https://img.shields.io/badge/data.table-R-276DC3?style=for-the-badge)
-![ggplot2](https://img.shields.io/badge/ggplot2-R-276DC3?style=for-the-badge)
+---
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+### 🗄 Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
+---
+
+### 🤖 AI & Data
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![LLMs](https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge)
+
+---
 
 ### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge\&logo=rstudio\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-# 📂 Featured Projects
+## 📊 GitHub Stats
 
-## 🛒 Big Mart Sales Prediction
-
-**Retail Forecasting | Regression | Ensemble Learning**
-
-* Built modular ML pipeline in R
-* Feature engineering improved model performance
-* Compared Linear, Lasso, Ridge, Random Forest, XGBoost
-* 🏆 Best Model: Random Forest (RMSE: 1086.49)
-
-🔗 [View Repository](https://github.com/HamzaLatif02/BigMart_Sales_Prediction)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaLatif02&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 🏦 Loan Eligibility Prediction
+## 🎯 What I’m Focused On
 
-**Binary Classification | Feature Engineering | Model Benchmarking**
-
-* Designed EMI & Balance Income features
-* Logistic Regression vs Tree-based models
-* Cross-validation & leaderboard benchmarking
-* Stable generalisation performance
-
-🔗 [View Repository](https://github.com/HamzaLatif02/Loan_Prediction)
+* Building **AI-powered tools that automate real workflows**
+* Designing **scalable backend systems and data pipelines**
+* Integrating **LLMs into production-style applications**
+* Shipping **full-stack projects with real users and impact**
 
 ---
 
-## ⚖️ Legal Temporal Reasoning Benchmark
+## ⚡ Currently
 
-**LLM Evaluation | Legal NLP | Research Project**
-
-* Built structured legal dataset
-* Designed 12 reasoning task types
-* Benchmarked multiple LLMs
-* Evaluated temporal reasoning capabilities
-
-🔗 [View Repository](https://github.com/HamzaLatif02/llm_chronological_legal_benchmark)
+* Developing **data & AI web applications**
+* Exploring **LLM agents and workflow automation**
+* Expanding projects in **finance, analytics, and AI systems**
 
 ---
 
-# 📫 Let’s Connect
+## 📫 Let’s Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/latif-hamza/)
 
 📧 [Email](mailto:lhamza1020@gmail.com)
-
----
-
-# 🎯 What I’m Currently Working On
-
-* Advanced ML benchmarking
-* Model optimisation & tuning
-* Building production-ready data workflows
-* Expanding portfolio in finance & retail analytics
 
 ---
